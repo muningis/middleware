@@ -1,5 +1,11 @@
 # @hono/standard-validator
 
+## 0.1.1
+
+### Patch Changes
+
+- [`a1e75a4909cf69c0a3ffe1fdbb203f0ca6eb122b`](https://github.com/honojs/middleware/commit/a1e75a4909cf69c0a3ffe1fdbb203f0ca6eb122b) Thanks [@muningis](https://github.com/muningis)! - Remove dead code
+
 ## 0.1.0
 
 ### Minor Changes
